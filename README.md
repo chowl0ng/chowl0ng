@@ -16,5 +16,13 @@ Hello! I'm **Zhekinah Brigette "Zhey" Arandia**, a senior high school student in
 - **Digital Artist**: Experienced in creating digital art with a unique style.
 
 ## 💻 Technical Skills
+- **Programming Languages**: Python, C#, Java (Currently learning and improving; newbie in these areas)
+- **Web Development**: HTML, CSS, JavaScript
+g innovative and practical projects both in and out of school.
+- **Fluent in English**: Strong skills in both spoken and written communication.
+- **Problem-Solving Skills**: Adept at addressing complex challenges with effective solutions.
+- **Digital Artist**: Experienced in creating digital art with a unique style.
+
+## 💻 Technical Skills
 - **Programming Languages**: Python, C#, Java
 - **Web Development**: HTML, CSS, JavaScript
