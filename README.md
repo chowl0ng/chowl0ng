@@ -3,7 +3,7 @@
 Hello! I'm **Zhekinah Brigette "Zhey" Arandia**, a senior high school student in the **Information and Communication Technology (ICT)** strand at a public school in Quezon City. I’m passionate about **coding**, **entrepreneurship**, and academic excellence. My goal is to thrive in the programming industry while balancing my creative and technical interests.
 
 ## 🎀 Short Info About Me
-- **S.Her | Minor**
+- **She/Her | Minor**
 - **Lover of All Things Pink** 🌸
 - **Hip-hop & Rap Enthusiast** 🎧
 - **Consistent Academic Achiever** 🏆
